@@ -1,0 +1,21 @@
+.box{
+    background-color:lightseagreen;
+    height: 500px;
+    width: 550px;
+}
+h6{
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 50px;
+   color: white; 
+}
+p{
+   color: white;
+   text-size-adjust: 50px;
+   padding:30px;
+   width: 50%;
+}
+section{
+    display: flex;
+    width:50%;
+}

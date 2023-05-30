@@ -1,0 +1,16 @@
+/* This is a comment in CSS */
+
+/* Set the font family and size for the body element */
+h1{
+    color:blue;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+p{
+    color:green;
+    font-size: 20px;
+}
+
+
+  
+  

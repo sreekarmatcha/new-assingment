@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+    var personPrototype={
+        greet:function(){
+            console.log("hello,my name is "+this.name);
+        }
+
+    };
+    var person=object.create(personPrototype);
+    person.name="john";
+    person.greet();
+</script>
+</head>
+</html>
